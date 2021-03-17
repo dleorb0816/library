@@ -6,3 +6,4 @@
 <link href="/css/bootstrap.css" rel="stylesheet" type="text/css">
 <link href="/css/bootstrap-theme.css" rel="stylesheet" type="text/css">
 <link href="/css/index.css" rel="stylesheet" type="text/css">
+<link href="/css/footer.css" rel="stylesheet">

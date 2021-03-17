@@ -1,0 +1,39 @@
+@charset "UTF-8";
+.div{
+
+    height: 20px;
+}
+
+.foot{
+    background-color: cyan;
+}
+
+.foot1{
+    background-color: cyan;
+    display: flex;
+
+
+}
+div .foot1{
+    border-top:  lightgray 1px solid;
+    border-bottom: lightgray 1px solid;
+}
+.infoot1{
+    width:100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.foot1 a {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 10px;
+}
+.foot2{
+
+}
+.foot3{
+
+}
